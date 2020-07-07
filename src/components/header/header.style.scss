@@ -21,6 +21,11 @@
     .option {
       padding: 10px 15px;
       margin-bottom: -25px;
+      cursor: pointer;
+    }
+
+    .red {
+      color: rgb(246, 59, 59);
     }
   }
 }
